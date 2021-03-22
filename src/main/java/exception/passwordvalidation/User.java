@@ -1,4 +1,4 @@
-package exception.userscore.passwordvalidation;
+package exception.passwordvalidation;
 
 public class User {
     private String email;

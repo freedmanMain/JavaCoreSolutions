@@ -1,6 +1,6 @@
-package exception.userscore.passwordvalidation;
+package exception.passwordvalidation;
 
-import exception.userscore.passwordvalidation.validationexception.PasswordValidationException;
+import exception.passwordvalidation.validationexception.PasswordValidationException;
 
 /**
  * Класс обслуживающий пользователя.

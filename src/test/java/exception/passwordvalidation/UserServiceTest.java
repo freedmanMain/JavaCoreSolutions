@@ -1,6 +1,5 @@
-package exception.userscore.passwordvalidation;
+package exception.passwordvalidation;
 
-import exception.userscore.passwordvalidation.validationexception.PasswordValidationException;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
