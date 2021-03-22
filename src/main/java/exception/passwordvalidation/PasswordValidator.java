@@ -1,4 +1,4 @@
-package exception.userscore.passwordvalidation;
+package exception.passwordvalidation;
 
 /**
  * Класс валидатор паролей.
